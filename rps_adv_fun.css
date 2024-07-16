@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(25, 25, 25);
+    color: white;
+  }
+  
+  .title {
+    font-size: 30px;
+  }
+  
+  .move-icon {
+    height: 50px;
+  }
+  
+  .move-btn {
+    background-color: transparent;
+    border: 3px solid white;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .result {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
